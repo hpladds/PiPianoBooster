@@ -1,0 +1,7 @@
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/install/strip.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/edit_cache.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/pianobooster.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/rebuild_cache.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/list_install_components.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/install/local.dir
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/CMakeFiles/install.dir
