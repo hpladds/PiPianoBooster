@@ -12,7 +12,7 @@ Note color-coding from Kory at sourceforge.
 
 ***************************************************************************************
 
-# History of Piano Booster.
+## History of Piano Booster.
 
 The project was created by Louis B. He seems to have abandoned the project. In reading the Pianobooster forums, it appears he ran out of steam when considering a new interface for the application. Perhaps he reasoned that other music software's interfaces were better. I disagree.
 
