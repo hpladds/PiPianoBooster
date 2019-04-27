@@ -16,6 +16,6 @@ History of Piano Booster.
 The project was created by Louis B. He seems to have abandoned the project. In reading the Pianobooster forums, it appears he ran out of steam when considering a new interface for the application. Perhaps he reasoned that other music software's interfaces were better. I disagree.
 
 "Kory" added code that colorizes the notes. I had trouble integrating the colorizing code and reached out to ALE (Alanta Linux Enthusiasts) and Decatur Makers for assistants. Horkan Smith and Ed Cashan responded and (IIRC) Horkan incorporated Kory’s revised Draw.ccp file here:\
-http://www.horkan.net/pianobooster
+http://www.horkan.net/pianobooster\
 www.horkan.net
 Ed verified the changes and placed the code on his github https://github.com/ecashin/pianobory.
