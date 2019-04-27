@@ -1,0 +1,17 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtOpenGL
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4/QtCore
+-I/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src
+-I/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src
+-I/usr/include
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_XML_LIB
+-DQT_CORE_LIB
+-D__LINUX_ALSASEQ__
+-o
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/moc_GuiLoopingPopup.cxx
+/home/hpladds/Documents/Makers/Projects/PiBoo/pianobooster/pianobooster-code/PianoBooster/src/GuiLoopingPopup.h

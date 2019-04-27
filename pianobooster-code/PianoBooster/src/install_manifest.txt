@@ -1,0 +1,4 @@
+/usr/local/share/applications/pianobooster.desktop
+/usr/local/bin/pianobooster
+/usr/local/share/pianobooster/doc/README.txt
+/usr/local/share/pixmaps/pianobooster.png
