@@ -7,7 +7,7 @@ The software is intended to be used with a Raspberry Pi 3b (or any Raspberry Pi 
 It is a practicing aid for beginner to intermediate students of piano.
 
 It incorporates bits of code from two sources:
-Base Code from Louis B
+Base Code from Louis B.
 Note color-coding from Kory at sourceforge.
 
 ***************************************************************************************
